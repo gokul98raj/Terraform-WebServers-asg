@@ -1,2 +1,2 @@
 # Terraform-WebServers-asg
- Web servers setup with ASG
+ Deploy Web servers with Auto Scaling Group using Terraform
